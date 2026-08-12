@@ -7,12 +7,12 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:sniffer_egg",
-          "weight": 2
+          "weight": 3
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_apple",
-          "weight": 5
+          "weight": 10
         },
         {
           "type": "minecraft:item",
@@ -25,17 +25,17 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:nautilus_shell",
-          "weight": 5
+          "weight": 12
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:heart_of_the_sea",
-          "weight": 2
+          "weight": 4
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:tide_armor_trim_smithing_template",
-          "weight": 2
+          "weight": 4
         },
         {
           "type": "minecraft:item",
@@ -55,7 +55,7 @@
             }
           ],
           "name": "minecraft:suspicious_stew",
-          "weight": 2
+          "weight": 3
         }
       ],
       "rolls": 1.0
