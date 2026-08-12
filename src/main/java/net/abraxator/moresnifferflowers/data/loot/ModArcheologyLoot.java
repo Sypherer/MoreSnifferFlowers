@@ -30,7 +30,7 @@ public record ModArcheologyLoot(HolderLookup.Provider registries) implements Loo
                                         .add(LootItem.lootTableItem(Items.ENCHANTED_GOLDEN_APPLE).setWeight(1))
                                         .add(LootItem.lootTableItem(Items.DIAMOND_BLOCK).setWeight(2))
                                         .add(LootItem.lootTableItem(Items.NAUTILUS_SHELL).setWeight(10))
-                                        .add(LootItem.lootTableItem(Items.HEART_OF_THE_SEA).setWeight(5))
+                                        .add(LootItem.lootTableItem(Items.HEART_OF_THE_SEA).setWeight(4))
                                         .add(LootItem.lootTableItem(Items.TIDE_ARMOR_TRIM_SMITHING_TEMPLATE).setWeight(5))
 
                                         .add(
