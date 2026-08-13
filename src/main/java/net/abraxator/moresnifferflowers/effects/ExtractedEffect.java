@@ -26,7 +26,7 @@ public class ExtractedEffect extends MobEffect {
         List<MobEffectInstance> activeEffects = new ArrayList<>(livingEntity.getActiveEffects());
         activeEffects = activeEffects.stream().filter(mobEffectInstance -> !mobEffectInstance.getEffect().is(ModTags.ModEffectTags.EXTRACTION_BLACKLIST)).toList();
 
-        return false;
+        return true;
     }
 
     @Override
